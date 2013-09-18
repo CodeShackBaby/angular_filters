@@ -12,5 +12,5 @@ mainModule.filter('quietFilter', function() {
 });
 
 function MainController($scope) {
-  $scope.pageHeading = 'I AM A LOUD TWEENAGER';
+  $scope.tweenagerTalk = 'I AM A LOUD TWEENAGER';
 }
